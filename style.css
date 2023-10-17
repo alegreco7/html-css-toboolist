@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+}
+.logo {
+    padding: 1rem;
+    background-color: var(--bool-white) ;
+    margin-bottom: 60px;
+}
+.logo img { 
+       vertical-align: middle;
+}
+.logo h1 {
+    display: inline-block;
+}
